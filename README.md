@@ -16,10 +16,10 @@
 
 ### Online Judge 💻
 
-* BOJ: [Kinetic27](http://icpc.me/kinetic27)
-  * solvedac: [Kinetic27](https://solved.ac/profile/kinetic27)
+* BOJ: [wjdrkdud5](http://icpc.me/wjdrkdud5)
+  * solvedac: [wjdrkdud5](https://solved.ac/profile/wjdrkdud5)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrkdud5)](https://solved.ac/wjdrkdud5)
 
 
 
