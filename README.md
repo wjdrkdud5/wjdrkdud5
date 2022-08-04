@@ -1,11 +1,11 @@
-### 👩🏻‍💻 Hey there !
+### 🌐 Hey there !
 
 
 <p>
  Contact : bangz_@naver.com / sub contact: gayomii55@gmail.com
  
     
- I'm a dreamer who want to develop <b>convenient</b>, <b>fun</b> things !
+ I'm a dreamer who want to develop <b>convenient</b>, <b>fun</b> things ! 💫
 </p>
 
 
