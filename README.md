@@ -5,7 +5,8 @@
  Contact : bangz_@naver.com / sub contact: gayomii55@gmail.com
  
     
- I'm a dreamer who enjoys developing <b>convenient</b>, <b>fun</b> things ! 💫
+ I'm a life challenger who enjoys developing <b>fun</b> things ! 💫
+ Always looking for more <b>convenient</b> ways 😎
 </p>
 
 
