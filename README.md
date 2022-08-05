@@ -14,12 +14,12 @@
 [![wjdrkdud5's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdrkdud5&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wjdrkdud5)
 
 
-### Online Judge 💻
+<!-- ### Online Judge 💻
 
 * BOJ: [wjdrkdud5](http://icpc.me/wjdrkdud5)
   * solvedac: [wjdrkdud5](https://solved.ac/profile/wjdrkdud5)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrkdud5)](https://solved.ac/wjdrkdud5)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wjdrkdud5)](https://solved.ac/wjdrkdud5) -->
 
 
 
